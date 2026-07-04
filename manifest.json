@@ -2,7 +2,7 @@
   "name": "Find My Bud",
   "short_name": "FindBud",
   "description": "Loud panning tone to locate a lost earbud",
-  "start_url": "./find-my-earbud.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0b0e11",
   "theme_color": "#0b0e11",
